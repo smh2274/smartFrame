@@ -39,5 +39,5 @@ public class ConfigHelper {
     /**
      * 获得基础包名
      */
-    public static String
+
 }
